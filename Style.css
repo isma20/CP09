@@ -1,0 +1,72 @@
+
+.class1 p{
+    color: blueviolet;
+}
+p{
+    color:darkslateblue;
+    font-size: 17px;
+}
+
+.class1{
+    color: darkviolet;
+    border-style: solid dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color:palevioletred yellowgreen beige cadetblue;
+}
+.class4 {
+    background-color: lightblue;
+    color: green;
+}
+.class1{
+   color: black;
+    background-image: url("sky.avif");
+    background-repeat: no-repeat;
+     height: auto;
+    width: 950px;
+    background-size: contain;
+    background-attachment: inherit;
+    background-position: top;
+}
+.class2{
+    color: burlywood;
+    background-image: url("sky.avif");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: bottom;
+    background-size: contain;
+}
+.class3{
+    color: bisque;
+    background-image: url("sky.avif");
+    background-repeat:repeat-x;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+}
+.class5 p{
+    color: olive;
+    background: #fff
+        url("sky.avif")
+        no-repeat right top; 
+}
+.class6 p h2{
+    color: grey;
+    background: #fff
+        url("sky.avif")
+        no-repeat 200px 300px; 
+}
+h2{
+    
+    border-style: solid ridge;
+    border-width: 20px;
+    border-color: brown;
+     color:rebeccapurple;
+}
+
+h1{
+    
+    border-style: dotted solid ridge;
+    border-width: 20px 15px 10px;
+    border-color: rebeccapurple;
+    color:darkblue;
+}
